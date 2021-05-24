@@ -6,3 +6,11 @@ draft: false
 
 ## Shell Command
 
+#### grep
+
+#### sed 
+
+#### awk
+
+#### cut
+
