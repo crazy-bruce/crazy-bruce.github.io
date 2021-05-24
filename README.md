@@ -1,3 +1,3 @@
 # Blog
 
-## Welcome to my blog <https://crazy-bruce.github.io/>
+## Welcome to my blog:  <https://crazy-bruce.github.io/>
